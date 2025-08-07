@@ -73,4 +73,4 @@ cd StockVision
     <li><b>Candlestick Charts</b>: Visualize stock price movements using candlestick charts for both historical and predicted data.</li>
     <li><b>Latest News and Sentiment Analysis</b>: Stay updated with the latest news headlines and understand the market sentiment related to your stock ticker.</li>
 </ul>
-
+    
