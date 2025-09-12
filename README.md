@@ -2,7 +2,7 @@
 
 <p style="font-size: 18px; line-height: 1.6;">StockVision is a web application built using Streamlit that provides tools for stock analysis and prediction using machine learning and financial data visualization techniques.</p>
 
-<h2 style="color: #4CAF50;">Overview 🚀</h2>
+<h2 style="color: #4CAF50;">Overview 🚀</h2>   
 <p style="font-size: 16px;">StockVision allows users to:</p>
 <ul style="font-size: 16px;">
     <li>🧠 <b>Predict Stock Prices</b>: Use historical data and a trained machine learning model to forecast future prices.</li>
