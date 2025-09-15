@@ -1,6 +1,6 @@
 <h1 style="text-align: center; color: #2E3B4E;">StockVision 📈</h1>
 
-<p style="font-size: 18px; line-height: 1.6;">StockVision is a web application built using Streamlit that provides tools for stock analysis and prediction using machine learning and financial data visualization techniques.</p>
+<p style="font-size: 18px; line-height: 1.6;">StockVision is a web application built using Streamlit that provides tools for stock analysis and prediction using machine learning and financial data visualization techniques.</p>  
 
 <h2 style="color: #4CAF50;">Overview 🚀</h2>   
 <p style="font-size: 16px;">StockVision allows users to:</p>
