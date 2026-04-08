@@ -6,7 +6,7 @@
 6. HDFC - HDFC.BO 
 7. ICICI Bank - ICICIBANK.BO 
 8. Kotak Mahindra Bank - KOTAKBANK.BO
-9. State Bank of India - SBIN.BO
+9. State Bank of India - SBIN.BO 
 10. Bajaj Finance - BAJFINANCE.BO
 11. Bharti Airtel - BHARTIARTL.BO
 12. Asian Paints - ASIANPAINT.BO
