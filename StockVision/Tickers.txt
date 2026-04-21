@@ -3,7 +3,7 @@
 3. HDFC Bank - HDFCBANK.BO
 4. Infosys - INFY.BO
 5. Hindustan Unilever - HINDUNILVR.BO
-6. HDFC - HDFC.BO 
+6. HDFC - HDFC.BO  
 7. ICICI Bank - ICICIBANK.BO 
 8. Kotak Mahindra Bank - KOTAKBANK.BO 
 9. State Bank of India - SBIN.BO 
